@@ -66,5 +66,5 @@ Contrastamos nuestro modelo con una fuente externa independiente (**FronkonGames
 ---
 
 ## 👤 Equipo y Contacto
-* **Urko Atxurra Uskola** - [LinkedIn](www.linkedin.com/in/felipe-lorca-8a44b33b4](https://www.linkedin.com/in/felipe-lorca-8a44b33b4/)](https://www.linkedin.com/in/urko-atxurra-6990b5407/)
+* **Urko Atxurra Uskola** - [LinkedIn](https://www.linkedin.com/in/urko-atxurra-6990b5407/)
 * **Integrantes del equipo:** Jose, Marta, Victor, Urko.

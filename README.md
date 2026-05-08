@@ -66,5 +66,5 @@ Contrastamos nuestro modelo con una fuente externa independiente (**FronkonGames
 ---
 
 ## 👤 Equipo y Contacto
-* **Tu Nombre** - [LinkedIn](tu-link-aqui)
+* **Tu Nombre** - [LinkedIn](www.linkedin.com/in/felipe-lorca-8a44b33b4)
 * **Integrantes del equipo:** Jose, Marta, Victor, Urko.
